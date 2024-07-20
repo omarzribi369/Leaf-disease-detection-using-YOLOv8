@@ -6,3 +6,6 @@
 3-Run the app:
    streamlit run app.py
 
+<img src="interface.png" alt="Local Image" width="300"/>
+
+
