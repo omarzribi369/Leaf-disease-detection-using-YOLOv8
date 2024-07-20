@@ -16,3 +16,6 @@ This project involves training a leaf disease detection model using the YOLOv8 a
 
    ```bash
    pip install streamlit
+
+<img src="interface.png" alt="Local Image" width="300"/>
+
